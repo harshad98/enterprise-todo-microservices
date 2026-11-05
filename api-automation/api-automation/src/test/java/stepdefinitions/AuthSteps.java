@@ -261,7 +261,4 @@ public class AuthSteps {
         System.out.println("Duplicate Registration Response:");
         response.prettyPrint();    }
 
-
-
-
 }
